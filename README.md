@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=56&pause=1000&color=52FF00&center=true&vCenter=true&width=700&height=80&lines=Hello%2C+World!;I'm+anhduongeselsol." alt="Typing SVG" /></a>
 
-<h2 align="center">I am passionate about all things Python and Data </h2>
+<h2 align="center">I am passionate about all things Python and Data Science </h2>
 </br>
 <div>
   
